@@ -1,0 +1,302 @@
+h1{color: azure;
+    font-size:0.8rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+margin: 0.5rem 0.5rem;}
+span{color: crimson;
+    font-size: 0.8rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     margin: 0.1rem 0.1rem; }
+.page1{
+    background: url('image/1.jpg')
+    no-repeat;
+    background-size: cover;}
+.page1 img{
+    position: absolute;}
+.page1 img:nth-of-type(1)
+{   width: 5.2rem;
+    height: 2.5rem;
+    left: 1.1rem;
+    top: 7.2rem;}
+.page1 img:nth-of-type(2)
+{   width: 4rem;
+    height:2rem;
+    left: 0rem;
+    top: 0rem;}
+.page1 img:nth-of-type(3)
+{   width: 3rem;
+    height:1rem;
+    left: 0rem;
+    top: 2.5rem;}
+.page2{
+    background: url('image/5.jpg')
+    no-repeat;
+    background-size: cover;}
+.page2 img{
+    position: absolute;}
+.page2 img:nth-of-type(1)
+{   width: 5rem;
+    height: 1.5rem;
+    left: 1.5rem;
+    top: 1.5rem;}
+.page2 img:nth-of-type(2)
+{   width: 4.75rem;
+    height: 1.235rem;
+    left: 2.74rem;
+    top: 3.65rem;}
+.page2 img:nth-of-type(3)
+{
+    width: 4rem;
+    height: 1.04rem;
+    left: 3.48rem;
+    top: 5.5rem;
+}
+.page2 img:nth-of-type(4)
+{
+    width: 4.75rem;
+    height: 1.235rem;
+    left: 2.73rem;
+    top: 7.15rem;
+}
+.page2 img:nth-of-type(5)
+{
+    width: 4rem;
+    height: 1.04rem;
+    left: 0rem;
+    top: 9.1rem;
+}
+.page2 img:nth-of-type(6)
+{
+    width: 5rem;
+    height: 1.5rem;
+    left: 1.5rem;
+    bottom: 0rem;
+}
+.page3{
+    background: url('image/52.gif')
+    no-repeat;
+    background-size: cover;
+    }
+h2{color: blueviolet;
+font-size:0.45rem;
+font-family: 'Courier New', Courier, monospace;
+text-align: center；}
+h2 span{color: red;
+    font-size: 0.6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+strong{color: blueviolet;
+       font-size: 0.6rem;
+       font-family: Georgia, 'Times New Roman', Times, serif;}
+.page3 img{
+    position: absolute;
+}
+.page3 img:nth-of-type(1)
+{
+    width: 3.5rem;
+    height: 4.8rem;
+    left: 3.75rem;
+    top: 7.2rem;
+}
+.page3 img:nth-of-type(2)
+{
+    width: 3.5rem;
+    height: 4.7rem;
+    left: 0.25rem;
+    top: 2.5rem;
+}
+.page4{
+    background: url('image/11.jpg')
+    no-repeat;
+    background-size: cover;
+    }
+.page4 img{
+    position: absolute;
+}
+.page4 img:nth-of-type(1)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page4 img:nth-of-type(2)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 1rem;
+}
+.page4 img:nth-of-type(3)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 2rem;
+}
+.page4 img:nth-of-type(4)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 3rem;
+}
+.page4 img:nth-of-type(5)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 4rem;
+}
+.page4 img:nth-of-type(6)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 5rem;
+}
+.page4 img:nth-of-type(7)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 6rem;
+}
+.page4 img:nth-of-type(8)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 7rem;
+}
+.page4 img:nth-of-type(9)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 8rem;
+}
+.page4 img:nth-of-type(10)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 9rem;
+}
+.page4 img:nth-of-type(11)
+{
+    width: 8rem;
+    height: 1rem;
+    left: 0rem;
+    top: 10rem;
+}
+.page4 img:nth-of-type(12)
+{
+    width: 8rem;
+    height:10rem;
+    left: 0rem;
+    bottom: 0rem;
+}
+.page5{
+    background: url('image/51.jpg')
+    no-repeat;
+    background-size: cover;
+    }
+.page5 img{
+    position: absolute;
+}
+.page5 img:nth-of-type(1)
+{
+    width: 6rem;
+    height: 9rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page5 img:nth-of-type(2)
+{
+    width: 8rem;
+    height: 4.5rem;
+    left: 0rem;
+    bottom: 0rem;
+}
+.page5 img:nth-of-type(3)
+{
+    width: 3rem;
+    height: 4rem;
+    right: 0rem;
+    top: 4rem;
+}
+.page5 img:nth-of-type(4)
+{
+    width: 3.5rem;
+    height: 4rem;
+    right: 0rem;
+    top: 0rem;
+}
+.page5 img:nth-of-type(5)
+{
+    width: 5.5rem;
+    height: 3.5rem;
+    left: 0rem;
+    top: 4.5rem;
+}
+.page5 img:nth-of-type(6)
+{
+    width: 4rem;
+    height: 6rem;
+    left: 0rem;
+    bottom: 0rem;
+}
+.page5 img:nth-of-type(7)
+{
+    width: 8rem;
+    height: 8rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page6{
+    background: url('image/53.jpg')
+    no-repeat;
+    background-size: cover;
+    }
+.page6 img{
+    position: absolute;
+}
+.page6 img:nth-of-type(1)
+{
+    width: 4rem;
+    height: 5rem;
+    left: 0.5rem;
+    top: 0.5rem;
+}
+.box01 span{color: red;
+    font-size: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+.box01{height: 5rem;
+    width: 6rem;
+    border:0.05rem solid lightskyblue;
+    
+    font-size:0.45rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    background: url('image/52.gif');
+    margin: 0.5rem 0.8rem;
+    text-indent: 1rem;
+    }   
+.box02 span{color:black;
+    font-size: 0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1rem;
+    text-decoration:underline;
+    text-decoration-color: linen;}
+.box02{
+    height: 2rem;
+    width: 5rem;
+    border:0.05rem solid lightcyan;
+    
+    font-size:0.45rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    background-color: lightskyblue;
+   
+    margin: 4.6rem 0.5rem;}   
+   
